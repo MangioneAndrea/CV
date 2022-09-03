@@ -1,0 +1,4 @@
+pre-commit:
+  commands:
+    generate:
+      run: pnpm run generatePdf
