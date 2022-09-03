@@ -1,0 +1,18 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "Liks: <a src=\"andrea.mangione.dev\">Website</a> · <a src=\"andrea.mangione.dev\">Website</a> · <a src=\"https://github.com/MangioneAndrea\">Github</a>",
+  "main": "index.js",
+  "scripts": {
+    "generatePdf": "cat README.md | md-to-pdf  > cv.pdf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MangioneAndrea/CV.git"
+  },
+  "author": "andrea@mangione.dev",
+  "devDependencies": {
+    "lefthook": "^1.1.1",
+    "md-to-pdf": "^5.1.0"
+  }
+}
