@@ -12,7 +12,6 @@
   },
   "author": "andrea@mangione.dev",
   "devDependencies": {
-    "lefthook": "^1.1.1",
     "md-to-pdf": "^5.1.0"
   }
 }
