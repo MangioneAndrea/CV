@@ -3,7 +3,7 @@
 Liks: [Website](andrea.mangione.dev) · [Linkedin](https://www.linkedin.com/in/andrea-mangione-592902156/)
 · [GitHub](https://github.com/MangioneAndrea)
 
-Email: [andrea.mangione.dev](mailto:andrea@mangione.dev)
+Email: [andrea@mangione.dev](mailto:andrea@mangione.dev)
 
 ## Short description
 
