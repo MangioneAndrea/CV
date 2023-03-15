@@ -16,7 +16,7 @@ code, scaleability and use of modern technologies
   <tr>
     <td>04.2022 – Now</td>
     <td>
-      <b>jacando AG</b> – Full stack developer – 70% <br />
+      <b>jacando AG</b> – Full stack developer – 80% <br />
       MongoDB, NodeJS, ReactJS, Apollo, GCP, Docker <br />
       Managing translations processes for multiple projects <br />
       Improving noSQL db performance <br />
@@ -108,11 +108,11 @@ code, scaleability and use of modern technologies
 ### Programming languages and frameworks
 
 Proficient in: MongoDB, Go, NodeJS, Kotlin, ReactJS, SvelteJS <br/>
-Familiar with: Angular, Java, C++, Python, SQL
+Familiar with: Rust, Astro, Java, C++, Python, SQL
 
 ### Software
 
-Git, Docker, GCP
+Git, Docker, GCP, Nvim
 
 ### Languages (proficient)
 
