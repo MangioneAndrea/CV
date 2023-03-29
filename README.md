@@ -8,17 +8,16 @@ Email: [andrea@mangione.dev](mailto:andrea@mangione.dev)
 
 ## Short description
 
-I build solid web environments for different use cases. My goals when writing applications are clean and maintainable
-code, scaleability and use of modern technologies
+I build solid web environments for different use cases. My goals when writing applications are clean and maintainable code, scaleability and use of modern technologies
 
 ## Work experience
 <table>
   <tr>
-    <td>04.2022 – Now</td>
+    <td>02.2022 – Now</td>
     <td>
       <b>jacando AG</b> – Full stack developer – 80% <br />
       MongoDB, NodeJS, ReactJS, Apollo, GCP, Docker <br />
-      Managing translations processes for multiple projects <br />
+      Managing translations processes (CI) for multiple projects <br />
       Improving noSQL db performance <br />
       Building microservices and containerization
     </td>
@@ -28,8 +27,8 @@ code, scaleability and use of modern technologies
     <td>
       <b>jacando AG</b> – Junior Full stack developer – 70% <br />
       MongoDB, NodeJS, ReactJS, Apollo, GCP, Docker <br />
-      Managing translations processes for multiple projects <br />
-      Improving noSQL db performance <br />
+      Managing translations processes (CI) for multiple projects <br />
+      Improving noSQL db performance<br />
       Building microservices and containerization
     </td>
   </tr>
@@ -108,7 +107,7 @@ code, scaleability and use of modern technologies
 ### Programming languages and frameworks
 
 Proficient in: MongoDB, Go, NodeJS, Kotlin, ReactJS, SvelteJS <br/>
-Familiar with: Rust, Astro, Java, C++, Python, SQL
+Familiar with: Rust, Astro, Java, C++, Python, SQL...
 
 ### Software
 
