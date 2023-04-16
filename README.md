@@ -5,7 +5,7 @@ Liks: [Website](andrea.mangione.dev) · [Linkedin](https://www.linkedin.com/in/a
 
 Email: [andrea@mangione.dev](mailto:andrea@mangione.dev)
 
-<img src="photo.jpeg" />
+<img src="photo.jpeg" style="position: absolute;top: -20px;right: 30px;width: 30%;"/>
 
 
 <h2>Short description</h2>
@@ -106,12 +106,6 @@ Private Math lessons, Piano, Music, Travelling, and of course Programming
     }
     tr {
 	width: 100%;
-    }
-    img {
-    	position: absolute;
-	top: -20px;
-	right: 30px;
-	width: 30%;
     }
     blockquote{
     	width: 60%;
