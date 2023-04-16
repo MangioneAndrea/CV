@@ -4,7 +4,7 @@
   "description": "Liks: <a src=\"andrea.mangione.dev\">Website</a> · <a src=\"andrea.mangione.dev\">Website</a> · <a src=\"https://github.com/MangioneAndrea\">Github</a>",
   "main": "index.js",
   "scripts": {
-    "generatePdf": "cat README.md | md-to-pdf  > cv.pdf"
+    "generatePdf": "cat README.md | md-to-pdf --pdf-options '{\"margin\":\"20mm\"}'  > cv.pdf"
   },
   "repository": {
     "type": "git",

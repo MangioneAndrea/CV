@@ -1,117 +1,93 @@
-# Andrea Mangione
+<h1>Andrea Mangione</h1>
 
 Liks: [Website](andrea.mangione.dev) · [Linkedin](https://www.linkedin.com/in/andrea-mangione-592902156/)
 · [GitHub](https://github.com/MangioneAndrea)
 
 Email: [andrea@mangione.dev](mailto:andrea@mangione.dev)
 
+<img src="photo.jpeg" />
 
-## Short description
 
+<h2>Short description</h2>
+<blockquote>
 I build solid web environments for different use cases. My goals when writing applications are clean and maintainable code, scaleability and use of modern technologies
+</blockquote>
 
-## Work experience
+<h2>Work experience</h2>
 <table>
   <tr>
     <td>02.2022 – Now</td>
     <td>
-      <b>jacando AG</b> – Full stack developer – 80% <br />
-      MongoDB, NodeJS, ReactJS, Apollo, GCP, Docker <br />
-      Managing translations processes (CI) for multiple projects <br />
-      Improving noSQL db performance <br />
-      Building microservices and containerization
+      <b>jacando AG</b> – Full-stack developer – 80% (MongoDB, NodeJS, ReactJS, Apollo, GCP, Docker): <br />
+      managing translations processes (CI) for multiple projects, improving noSQL db performance, building microservices and containerization
     </td>
   </tr>
   <tr>
     <td>09.2020 – 02.2022</td>
     <td>
-      <b>jacando AG</b> – Junior Full stack developer – 70% <br />
-      MongoDB, NodeJS, ReactJS, Apollo, GCP, Docker <br />
-      Managing translations processes (CI) for multiple projects <br />
-      Improving noSQL db performance<br />
-      Building microservices and containerization
+      <b>jacando AG</b> – Junior full-stack developer – 70% (MongoDB, NodeJS, ReactJS, Apollo, GCP, Docker):<br/>
+      managing translations processes (CI) for multiple projects, improving noSQL db performance, building microservices and containerization
     </td>
   </tr>
   <tr>
     <td>08.2019 – 08.2020</td>
     <td>
-      <b>jacando AG</b> – Intern developer – 100% <br />
-      MongoDB, NodeJS, ReactJS, Apollo <br />
-      Refactoring old code to newest technologies <br />
-      Fullstack features implementation
+      <b>jacando AG</b> – Intern developer – 100% (MongoDB, NodeJS, ReactJS, Apollo)<br/>
+      refactoring old code to newest technologies, fullstack features implementation
     </td>
-    <br />
   </tr>
 </table>
 
-## Studies (CH)
-
+<h2>Studies</h2>
 <table>
   <tr>
     <td>09.2020 – Now</td>
-    <td>
-      <b>FHNW</b> – BSc – Computer Sciences <br />
+    <td class="full">
+      <b>FHNW</b> – BSc – Computer Sciences |
       University of Applied Sciences Northwestern Switzerland
     </td>
   </tr>
   <tr>
     <td>2016 – 2019</td>
     <td>
-      <b>BBB</b> – EFZ – Swiss certificate of proficiency Computer Sciences
-      <br />
-      Berufsfachschule Baden (Vocational School)
+      <b>BBB</b> – EFZ – Computer Sciences | Berufsfachschule Baden (Vocational School)
     </td>
   </tr>
   <tr>
     <td>2016 – 2019</td>
     <td>
-      <b>Kanti</b> – BM – High school graduation <br />
-      Kanti Baden (Highschool)
+      <b>Kanti</b> – BM – High school graduation | Kanti Baden (Highschool)
     </td>
   </tr>
   <tr>
     <td>2015 – 2016</td>
     <td>
-      German course A1–C1 <br />
-      Interim year language course
+      German course A1–C1 (Interim year language course)
     </td>
   </tr>
-</table>
-
-## Studies (IT)
-
-<table>
   <tr>
     <td>2012 – 2015</td>
     <td>
-      <b>ITIS EM</b> – BM – High school graduation <br />
-      Itis Ettore Majorana (industrial technical institute)
-    </td>
-  </tr>
-</table>
-
-## Teaching experience
-
-<table>
-  <tr>
-    <td>2018 – Now</td>
-    <td>
-      <b>Math teacher</b> <br />
-      Private Math lessons for 13–18 y/o students
+      <b>ITIS EM (Italy)</b> – BM – High school graduation | Itis Ettore Majorana 
     </td>
   </tr>
 </table>
 
 ## Skills
+<div class="splitH">
+<div>
+<h3>Programming languages and frameworks</h3>
 
-### Programming languages and frameworks
+Proficient in: MongoDB, Go, NodeJS, Kotlin, ReactJS <br/>
+Familiar with: Rust, Astro, Java, C++, Python, SQL
+</div>
+<div>
 
-Proficient in: MongoDB, Go, NodeJS, Kotlin, ReactJS, SvelteJS <br/>
-Familiar with: Rust, Astro, Java, C++, Python, SQL...
-
-### Software
+<h3>Software</h3>
 
 Git, Docker, GCP, Nvim
+</div>
+</div>
 
 ### Languages (proficient)
 
@@ -119,4 +95,32 @@ English, German, Swiss–German, Italian
 
 ## Hobbies
 
-Piano, Music, Travelling, and of course Programming
+Private Math lessons, Piano, Music, Travelling, and of course Programming
+
+
+<style>
+    table {
+	display: table;
+        width: 100%;
+        min-width: 100%;
+    }
+    tr {
+	width: 100%;
+    }
+    img {
+    	position: absolute;
+	top: -20px;
+	right: 30px;
+	width: 30%;
+    }
+    blockquote{
+    	width: 60%;
+    }
+    .splitH{
+    	display: flex;
+	justify-content: space-between;
+    }
+    .splitH > div{
+	width: 45%;
+    }
+</style>
