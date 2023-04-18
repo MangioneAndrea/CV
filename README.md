@@ -1,6 +1,6 @@
 <h1>Andrea Mangione</h1>
 
-Liks: [Website](andrea.mangione.dev) · [Linkedin](https://www.linkedin.com/in/andrea-mangione-592902156/)
+Liks: [Website](https://andrea.mangione.dev) · [Linkedin](https://www.linkedin.com/in/andrea-mangione-592902156/)
 · [GitHub](https://github.com/MangioneAndrea)
 
 Email: [andrea@mangione.dev](mailto:andrea@mangione.dev)
