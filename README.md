@@ -18,7 +18,7 @@ I build solid web environments for different use cases. My goals when writing ap
   <tr>
     <td>02.2022 – Now</td>
     <td>
-      <b>jacando AG</b> – Full-stack developer – 80% (MongoDB, NodeJS, ReactJS, Apollo, GCP, Docker): <br />
+      <b>jacando AG</b> – Backend developer – 80% (MongoDB, NodeJS, ReactJS, Apollo, GCP, Docker): <br />
       managing translations processes (CI) for multiple projects, improving noSQL db performance, building microservices and containerization
     </td>
   </tr>
@@ -41,7 +41,7 @@ I build solid web environments for different use cases. My goals when writing ap
 <h2>Studies</h2>
 <table>
   <tr>
-    <td>09.2020 – Now</td>
+    <td>09.2020 – 07-2024</td>
     <td class="full">
       <b>FHNW</b> – BSc – Computer Sciences |
       University of Applied Sciences Northwestern Switzerland
