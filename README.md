@@ -10,7 +10,7 @@ Email: [andrea@mangione.dev](mailto:andrea@mangione.dev)
 
 <h2>Short description</h2>
 <blockquote>
-I build solid web environments for different use cases. My goals when writing applications are clean and maintainable code, scaleability and use of modern technologies
+I build solid web environments for different use cases. My goals when writing applications are fast, clean and maintainable code. Scaleability is nowadays the basic foundament which must be taken seriously: if it doesn't scale, it has not future.
 </blockquote>
 
 <h2>Work experience</h2>
@@ -18,15 +18,15 @@ I build solid web environments for different use cases. My goals when writing ap
   <tr>
     <td>02.2022 – Now</td>
     <td>
-      <b>jacando AG</b> – Backend developer – 80% (MongoDB, NodeJS, ReactJS, Apollo, GCP, Docker): <br />
-      managing translations processes (CI) for multiple projects, improving noSQL db performance, building microservices and containerization
+      <b>jacando AG</b> – Backend developer – 80% (MongoDB, NodeJS, ReactJS, Apollo, GCP, Docker, Go): <br />
+      managing translations processes (CI) for multiple projects, improving noSQL db performance, code architecture, building services and containerization
     </td>
   </tr>
   <tr>
     <td>09.2020 – 02.2022</td>
     <td>
       <b>jacando AG</b> – Junior full-stack developer – 70% (MongoDB, NodeJS, ReactJS, Apollo, GCP, Docker):<br/>
-      managing translations processes (CI) for multiple projects, improving noSQL db performance, building microservices and containerization
+      managing translations processes (CI) for multiple projects, improving noSQL db performance, building services and containerization
     </td>
   </tr>
   <tr>
@@ -95,8 +95,7 @@ English, German, Swiss–German, Italian
 
 ## Hobbies
 
-Private Math lessons, Piano, Music, Travelling, and of course Programming
-
+Piano, Concerts, Gaming, Travelling
 
 <style>
     table {
