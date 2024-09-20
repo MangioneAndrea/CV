@@ -1,22 +1,27 @@
 <h1>Andrea Mangione</h1>
 
 Liks: [Website](https://andrea.mangione.dev) · [Linkedin](https://www.linkedin.com/in/andrea-mangione-592902156/)
-· [GitHub](https://github.com/MangioneAndrea)
+· [GitHub](https://github.com/MangioneAndrea) | Email: [andrea@mangione.dev](mailto:andrea@mangione.dev)
 
-Email: [andrea@mangione.dev](mailto:andrea@mangione.dev)
-
-<img src="photo.jpeg" style="position: absolute;top: -20px;right: 30px;width: 30%;"/>
+<img src="photo.jpg" style="position: absolute;top: -20px;right: 30px;width: 30%;"/>
 
 
 <h2>Short description</h2>
 <blockquote>
-I build solid web environments for different use cases. My goals when writing applications are fast, clean and maintainable code. Scaleability is nowadays the basic foundament which must be taken seriously: if it doesn't scale, it has not future.
+The Performance Guy, I'm a Linux poweruser, use Nvim for pretty much everything (even this CV) and love challanges
 </blockquote>
 
 <h2>Work experience</h2>
 <table>
   <tr>
-    <td>02.2022 – Now</td>
+    <td>08.2024 – Now</td>
+    <td>
+      <b>Coop</b> – IT Business Analyst – 100% (System architecture and PO for Passabene): <br />
+      Defining and maintaining multiple services on premise and on the cloud for reliable use and easy scaling. Ideating and discussing technical solutions for about ~ 40k scanners + mobile solutions.
+    </td>
+  </tr>
+  <tr>
+    <td>02.2022 – 07.2024</td>
     <td>
       <b>jacando AG</b> – Backend developer – 80% (MongoDB, NodeJS, ReactJS, Apollo, GCP, Docker, Go): <br />
       managing translations processes (CI) for multiple projects, improving noSQL db performance, code architecture, building services and containerization
@@ -78,8 +83,8 @@ I build solid web environments for different use cases. My goals when writing ap
 <div>
 <h3>Programming languages and frameworks</h3>
 
-Proficient in: MongoDB, Go, NodeJS, Kotlin, ReactJS <br/>
-Familiar with: Rust, Astro, Java, C++, Python, SQL
+Proficient in: Rust, Go, NodeJS, ReactJS, MongoDB <br/>
+Familiar with: Kotlin, Svelte, Java, C++, Python, SQL...
 </div>
 <div>
 
@@ -95,7 +100,7 @@ English, German, Swiss–German, Italian
 
 ## Hobbies
 
-Piano, Concerts, Gaming, Travelling
+Piano, Concerts, Inline-Skating, Gaming, Travelling
 
 <style>
     table {
